@@ -1,6 +1,6 @@
 ﻿# 💫 About Me:
 
-🔭 I’m currently working on MERN stack Applications<br>👯 I’m looking to collaborate on various projects<br>🌱 I’m currently learning Python <br>💬 Ask me about anything<br>
+🔭 I’m currently working on MERN stack Applications<br>👯 I’m looking to collaborate on various projects<br>🌱 I’m currently learning new technologies <br>💬 Ask me about anything<br>
 
 # 💻 Tech Stack:
 
